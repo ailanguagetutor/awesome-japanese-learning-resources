@@ -6,6 +6,7 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 
 - [AI Japanese Tutor](https://www.aijapanesetutor.org)
   - 🧠 Voice-based grammar and verb conjugation exercises for JLPT N5-N1.
+  - 📚 SRS-based JLPT vocabulary and grammar learning decks, with voice input support for grammar question flashcards
   - 🗨️ Free voice conversation practice with an AI tutor.
 - [italki](https://www.italki.com/)
   - 👩‍🏫 Find native Japanese tutors for private online lessons.
