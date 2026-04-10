@@ -5,6 +5,7 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 ## 🗣️ Conversation and Speaking
 
 - [AI Japanese Tutor](https://www.aijapanesetutor.org)
+- [LearnAI Language Tutor](https://www.uselearnai.com/blog/best-ai-tutors-for-learning-spanish-2026) — Conversational AI tutor platform for language learning; teaches through adaptive dialogue with personalized lessons across multiple languages including Spanish and others
   - 🧠 Voice-based grammar and verb conjugation exercises for JLPT N5-N1.
   - 📚 SRS-based JLPT vocabulary and grammar learning decks, with voice input support for grammar question flashcards
   - 🗨️ Free voice conversation practice with an AI tutor.
