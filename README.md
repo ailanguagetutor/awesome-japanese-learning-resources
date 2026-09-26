@@ -15,6 +15,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 
 - [Bunpro](https://www.bunpro.jp/)
   - 📚 SRS-based grammar drilling tool structured by JLPT levels.
+- [Easy Japanese Anki sample deck](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/)
+  - 🗂️ Free JLPT N5/N4 sample cards for anime and J-pop learners, with optional extended Anki lessons.
 
 ## 🔤 Kanji and Reading
 
