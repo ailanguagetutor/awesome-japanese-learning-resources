@@ -8,6 +8,10 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 🧠 Voice-based grammar and verb conjugation exercises for JLPT N5-N1.
   - 📚 SRS-based JLPT vocabulary and grammar learning decks, with voice input support for grammar question flashcards
   - 🗨️ Free voice conversation practice with an AI tutor.
+- [AI Language Partner](https://duct-tape2.github.io/ai-language-partner/)
+  - 🗣️ Open-source, local-first Japanese speaking practice for Korean learners.
+  - 🔒 Uses reviewed dialogue banks and local STT/TTS, with no runtime LLM calls in the core speaking loop.
+  - 🧪 Includes a hosted mock-mode web demo and beginner-friendly contribution issues for language review.
 - [italki](https://www.italki.com/)
   - 👩‍🏫 Find native Japanese tutors for private online lessons.
 
