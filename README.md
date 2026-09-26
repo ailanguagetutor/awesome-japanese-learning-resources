@@ -17,6 +17,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 📚 SRS-based grammar drilling tool structured by JLPT levels.
 - [Nihongo to Japan](https://www.nihongotojapan.com/en)
   - 📝 Free JLPT N5–N1 grammar guides with 10,000+ practice questions, a conjugation trainer and a level-check test.
+- [Easy Japanese Anki sample deck](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/)
+  - 🗂️ Free JLPT N5/N4 sample cards for anime and J-pop learners, with optional extended Anki lessons.
 
 ## 🔤 Kanji and Reading
 
@@ -29,6 +31,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 
 - [Cure Dolly's Japanese From Scratch](https://www.youtube.com/@organicjapanesewithcuredol49)
   - 💡 YouTube series offering unique Japanese grammar teaching.
+- [After Hours（アフターアワーズ）](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd)
+  - 🎙️ Weekly casual conversation podcast by two native Japanese speakers in their 20s. Natural, unscripted dialogue with real 若者言葉 — great for intermediate-advanced (N3-N1) listening immersion. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd), [Apple Podcasts](https://podcasts.apple.com/podcast/id1574825253), and [YouTube](https://www.youtube.com/@after_hours_podcast).
 
 ## 🛠️ Dictionaries and Tools
 
