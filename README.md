@@ -44,6 +44,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 🔍 Powerful Japanese-English dictionary with handwriting recognition.
 - [Popup Japanese Dictionary](https://www.popupjapanesedictionary.com)
   - 💬 Popup Japanese Dictionary app for convenient word lookups on Windows and on Android
+- [YuzuLingo](https://www.yuzulingo.com/)
+  - 📺 Browser extension that runs local OCR over hardcoded video subtitles (YouTube, Bilibili) so hover dictionaries like Yomitan work natively.
 
 ---
 
