@@ -40,8 +40,6 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 - [Roam Radio – Japan](https://roamradios.com/countries/JP)
   - 📻 Free browser directory of live radio stations from Japan (news, music, talk). Handy for passive listening immersion with real broadcasts; no account needed.
 
-
-
 ## 🛠️ Dictionaries and Tools
 
 - [Jisho.org](https://jisho.org/)
