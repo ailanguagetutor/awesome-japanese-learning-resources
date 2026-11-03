@@ -30,6 +30,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 🦀 SRS-based kanji and vocabulary learning platform.
 - [Satori Reader](https://www.satorireader.com/)
   - 📖 Graded reading material with audio and vocab support.
+- [Bibooks](https://bibooks.org/languages/japanese)
+  - Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio.
 
 ## 🎧 Immersion
 
