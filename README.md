@@ -47,6 +47,9 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 - [YuzuLingo](https://www.yuzulingo.com/)
   - 📺 Browser extension that runs local OCR over hardcoded video subtitles (YouTube, Bilibili) so hover dictionaries like Yomitan work natively.
 
+- [MangaTranslate](https://www.mangatranslate.com/)
+  - 🖼️ Web-based OCR and translation for Japanese manga pages, with batch image/PDF uploads and an online editor. Limited daily free credits and paid plans; review automatic translations against the original.
+
 ---
 
 🌟 *Contributions are welcome! Feel free to suggest more awesome resources.*
