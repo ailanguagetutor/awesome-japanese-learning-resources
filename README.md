@@ -41,6 +41,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 🎙️ Weekly casual conversation podcast by two native Japanese speakers in their 20s. Natural, unscripted dialogue with real 若者言葉 — great for intermediate-advanced (N3-N1) listening immersion. Available on [Spotify](https://open.spotify.com/show/2bcRVrQ0VejQnYovKxyDLd), [Apple Podcasts](https://podcasts.apple.com/podcast/id1574825253), and [YouTube](https://www.youtube.com/@after_hours_podcast).
 - [Roam Radio – Japan](https://roamradios.com/countries/JP)
   - 📻 Free browser directory of live radio stations from Japan (news, music, talk). Handy for passive listening immersion with real broadcasts; no account needed.
+- [Bilingual Mix](https://bilingualmix.com/en/japanese)
+  - 🔁 Makes sentence-by-sentence Japanese–English (or Chinese–English) listening tracks: one line of Japanese followed by the matching English line, exported as a single MP3. Pair two recordings of the same content you already own (nothing is translated or re-recorded), or paste text and have AI voices read it — no audio files needed for that route. The audio maker has a free daily trial without sign-up.
 
 ## 🛠️ Dictionaries and Tools
 
