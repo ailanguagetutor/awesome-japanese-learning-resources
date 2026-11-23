@@ -32,6 +32,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 📖 Graded reading material with audio and vocab support.
 - [Bibooks](https://bibooks.org/languages/japanese)
   - Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio.
+- [JLPT Read](https://jlptread.com/)
+  - 📖 Free graded stories for JLPT N5–N1, each written at two adjacent levels, with optional furigana, audio and translations.
 
 ## 🎧 Immersion
 
