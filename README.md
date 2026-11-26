@@ -23,6 +23,8 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 📝 Free JLPT N5–N1 grammar guides with 10,000+ practice questions, a conjugation trainer and a level-check test.
 - [Easy Japanese Anki sample deck](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/)
   - 🗂️ Free JLPT N5/N4 sample cards for anime and J-pop learners, with optional extended Anki lessons.
+- [OK JLPT](https://okjlpt.com/en)
+  - 🎯 Timed JLPT N5–N1 past-paper practice with listening audio, mistake review (Anki/PDF export), and a free [JLPT Score Estimator](https://okjlpt.com/en/tools/score) (Web, iOS, Android; EN / zh-Hans / zh-Hant).
 
 ## 🔤 Kanji and Reading
 
