@@ -32,6 +32,10 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 📖 Graded reading material with audio and vocab support.
 - [Bibooks](https://bibooks.org/languages/japanese)
   - Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio.
+  - [Graded Japanese Reading](https://yayacyan.github.io/japanese-reading/)
+    - 📖 Free graded reading practice starting from kana flashcards and N5 stories (levels up to N1 planned), with toggleable furigana, tap-a-word English/Chinese glosses, grammar notes, quizzes, and an automatic word bank.
+    - [Kanji Test Maker](https://yayacyan.github.io/kanji-test-maker/index.html)
+      - ✏️ Generate printable kanji test sheets and stroke-order practice sheets for the 1,026 elementary-school kanji (grades 1–6).
 
 ## 🎧 Immersion
 
